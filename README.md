@@ -53,7 +53,6 @@ This application replicates common mobile app patterns, featuring secure authent
 
 ## Screenshots / Demo
 
-*(**Placeholder:** You should replace this section with actual screenshots and ideally a GIF demonstrating the app's functionality: Sign-in, Home screen scrolling, Filtering, Search, Profile, and navigating to Property Details.)*
 
 **Example:**
 
@@ -61,7 +60,6 @@ This application replicates common mobile app patterns, featuring secure authent
 | :------------------------ | :-------------------------- | :------------------------- | :------------------------- |
 | ![Sign In](link/to/signin_screenshot.png) | ![Home](link/to/home_screenshot.png) | ![Explore](link/to/explore_screenshot.png) | ![Profile](link/to/profile_screenshot.png) |
 
-*Add a GIF link here showing navigation, authentication, scrolling, searching, and filtering.*
 
 ## Technology Stack
 
@@ -116,7 +114,7 @@ This application requires an Appwrite backend instance for authentication and da
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git <-- Replace with your repo URL
+    git clone https://github.com/Sohamchate10/Restate.git
     cd your-repo-name
     ```
 2.  **Install dependencies:**
